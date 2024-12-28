@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markderudder
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CS50 week 1
+- 🌱 I’m currently learning AppAcademy!
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ...
 
