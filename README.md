@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @markderudder
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AppAcademy!
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me ...
+
+
 
 <!---
 markderudder/markderudder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
